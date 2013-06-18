@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg width="284" version="1.1" xmlns:images_actives="http://www.crdp.ac_versailles.fr/2011/images_actives" xmlns="http://www.w3.org/2000/svg" height="1024" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" id="image_active">
+ <metadata xmlns="http://www.w3.org/2000/svg" id="metadata7">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+    <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Titre de l'image de test</dc:title>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">
+     <cc:Agent xmlns:cc="http://creativecommons.org/ns#">
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Droits sur l'image de test</dc:title>
+     </cc:Agent>
+    </dc:rights>
+    <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <dc:source xmlns:dc="http://purl.org/dc/elements/1.1/">Source de l'image de test</dc:source>
+    <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">
+     <cc:Agent xmlns:cc="http://creativecommons.org/ns#">
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Auteur de l'image de test</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">Date de l'image de test</dc:date>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <image width="2576" x="0" y="0" height="1932" id="background" xlink:href="Beynes_78_Ch%C3%A2teau1.JPG">
+  <title>Titre description générale</title>
+  <desc>Description générale</desc>
+ </image>
+ <g images_actives:zoomable="true" id="detail0">
+  <title>Détail 1</title>
+  <desc>Description du détail 1</desc>
+ </g>
+ <defs/>
+ <title>Image active de test</title>
+</svg>
